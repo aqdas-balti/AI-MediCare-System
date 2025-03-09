@@ -15,12 +15,12 @@
 # Python mein is file ko load karne ke liye `pandas` library ka use kiya jata hai:  
 
 import pandas as pd  
-dataset = pd.read_csv('Training.csv')  # CSV file load ki  
+dataset = pd.read_csv('Datasets\Training.csv.zip')  # CSV file load ki  
 print(dataset.shape)  # Check karo ke kitni rows aur columns hain  
-
 # 🔹 **4920 rows aur 133 columns hain:**  
 # - **Pehle 132 columns** – Different **symptoms** ko represent karte hain.  
 # - **Aakhri column (`prognosis`)** – Disease ka naam show karta hai.  
+
 
 # 🔹 **Example:**  
 # | Fever  | Cough  | Headache  | Weakness  | Prognosis (Disease)|  
