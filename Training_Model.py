@@ -6,8 +6,7 @@
 # ✅ **Step 3: Machine Learning Model Train Karna**  
 # ✅ **Step 4: Model Se Predictions Lena**  
 # ✅ **Step 5: Model Save Aur Load Karna**  
-# ✅ **Step 6: Medical Recommendations Dena** 
- 
+# ✅ **Step 6: Medical Recommendations Dena**  
 
 ## **Step 1: Medical Dataset Load Karna**
 # Sabse pehle, ek **medical dataset** use kiya jata hai jisme **patients ke symptoms aur unki diseases ka record hota hai**.  
